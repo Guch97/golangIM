@@ -1,7 +1,7 @@
 package main
 
 import (
-	"YourProjectName/models"
+	"ginchat/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
